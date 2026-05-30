@@ -1,4 +1,4 @@
-# Hi, I'm Marwah 👋
+# Hi, I'm Marwah 
 
 AI Engineer specializing in RAG systems, computer vision, and MLOps pipelines.
 I build production systems — deployed, tested, and measured.
